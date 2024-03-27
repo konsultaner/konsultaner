@@ -7,7 +7,7 @@ I'm running the company [Konsultaner](https://www.konsultaner.de/) with my buddy
 My latest tech stack looks like this
 
 - [WAMP-Proto](https://github.com/wamp-proto/wamp-proto)
-- Connectanum, my own WAMP implementation
+- Connectanum, my own Java WAMP implementation
 - Flutter, Dart and [connectanum-dart](https://github.com/konsultaner/connectanum-dart)
 - [ArangoDB](https://github.com/arangodb/arangodb)
 - OpenAi API
